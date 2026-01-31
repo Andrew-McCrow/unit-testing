@@ -5,4 +5,5 @@ function orderTotal(order) {
         }, 0);  
     }
 
-module.exports = orderTotal;
+// module.exports = orderTotal;
+export default orderTotal;

@@ -1,4 +1,5 @@
-const orderTotal = require('./order-total');
+// const orderTotal = require('./order-total');
+import orderTotal from './order-total.js';
 
 // tests
 it('Quantity', () => {
